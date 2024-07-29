@@ -1,2 +1,2 @@
 # portfolio.github.io
-Data Portfolio
+Data Science Portfolio
